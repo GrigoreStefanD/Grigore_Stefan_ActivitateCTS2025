@@ -16,8 +16,6 @@ public class Singleton {
         }
         return instance;
     }
-
-
     public void showMessage() {
         System.out.println("merge");
     }
