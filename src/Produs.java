@@ -1,4 +1,4 @@
-
-public abstract class Produs {
-    public abstract void arataTipul();
-}
+//
+//public abstract class Produs {
+//    public abstract void arataTipul();
+//}
